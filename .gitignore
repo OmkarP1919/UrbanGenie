@@ -1,0 +1,28 @@
+# ==============================================================================
+# UrbanGenie - Git Ignore Configuration
+# ==============================================================================
+
+# Project Documents & Reports (Excluded per project repository policy)
+*.pptx
+*.docx
+*.doc
+*.ppt
+*.pdf
+~$*
+PPT_UrbanGenie.pptx
+Project Report_UrbanGenie.docx
+Synopsis_UrbanGenie.docx
+
+# Compiled Java bytecode
+*.class
+
+# Build and staging artifacts
+build/
+nbproject/private/
+
+# OS and Editor metadata
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log

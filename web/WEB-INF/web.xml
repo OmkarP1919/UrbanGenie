@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.1" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd">
+    <servlet>
+        <servlet-name>email</servlet-name>
+        <servlet-class>email</servlet-class>
+        <init-param>
+            <param-name>mail.username</param-name>
+            <param-value>noduesclearance@gmail.com</param-value>
+        </init-param>
+        <init-param>
+            <param-name>mail.password</param-name>
+            <param-value>euly zjha dbqj tbvg</param-value>
+        </init-param>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>email</servlet-name>
+        <url-pattern>/email</url-pattern>
+    </servlet-mapping>
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+    <welcome-file-list>
+        <welcome-file>index.html</welcome-file>
+        <welcome-file>index11.jsp</welcome-file>
+    </welcome-file-list>
+</web-app>
