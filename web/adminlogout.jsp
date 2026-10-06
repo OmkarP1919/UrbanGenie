@@ -1,8 +1,4 @@
-<%-- 
-    Document   : adminlogout
-    Created on : Jun 11, 2023, 12:54:33 PM
-    Author     : shubh
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

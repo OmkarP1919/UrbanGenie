@@ -1,8 +1,4 @@
-<%-- 
-    Document   : user_approve
-    Created on : May 29, 2023, 4:11:43 PM
-    Author     : shubh
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@page import="java.sql.*, util.*"%>

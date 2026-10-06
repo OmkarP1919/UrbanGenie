@@ -1,8 +1,4 @@
-<%-- 
-    Document   : user_delete
-    Created on : May 29, 2023, 3:48:15 PM
-    Author     : shubh
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@page import="java.sql.*, util.*"%>

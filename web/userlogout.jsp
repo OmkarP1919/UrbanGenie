@@ -1,8 +1,3 @@
-<%-- 
-    Document   : userlogout
-    Created on : Jun 13, 2023, 9:23:51 PM
-    Author     : shubh
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

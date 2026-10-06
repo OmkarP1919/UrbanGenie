@@ -1,8 +1,4 @@
-<%-- 
-    Document   : userregister101
-    Created on : May 25, 2023, 4:30:29 PM
-    Author     : shubh
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
  <%@page import="java.sql.*, util.*"%>
